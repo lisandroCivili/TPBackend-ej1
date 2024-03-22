@@ -8,6 +8,14 @@ const tareaSchema = new Schema({
             minLength: 5,
             maxLength: 250,
             unique: true
+        },
+        prioridad:{
+            type: String,
+            required: true
+        },
+        fechaHora:{
+            type: String,
+            required: true
         }
 })
 
