@@ -4,7 +4,7 @@ Aplicacion para almacenar los datos que se cargan desde el frontend. Tareas sepa
 
 ## Link del sitio
 
-[Lista de tareas](https://to-do-rolling.netlify.app/mistareas)
+[Lista de tareas](https://to-do-rolling.netlify.app)
 
 ## Dependencies
 + cors
